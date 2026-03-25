@@ -21,10 +21,10 @@
   "author": "SendCraft Team <sendcraft.team@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sendcraft/sendcraft-mcp.git"
+    "url": "git+https://github.com/sendcraftlabs/sendcraft-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/sendcraft/sendcraft-mcp/issues"
+    "url": "https://github.com/sendcraftlabs/sendcraft-mcp/issues"
   },
-  "homepage": "https://github.com/sendcraft/sendcraft-mcp#readme"
+  "homepage": "https://github.com/sendcraftlabs/sendcraft-mcp#readme"
 }
