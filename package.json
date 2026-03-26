@@ -1,10 +1,11 @@
 {
   "name": "@sendcraft/mcp",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "private": true,
   "description": "Model Context Protocol (MCP) server for SendCraft — lets AI agents send emails natively",
   "main": "index.js",
   "bin": {
-    "sendcraft-mcp": "./index.js"
+    "sendcraft-mcp": "index.js"
   },
   "scripts": {
     "start": "node index.js"
@@ -16,9 +17,16 @@
   "engines": {
     "node": ">=18"
   },
-  "keywords": ["mcp", "sendcraft", "email", "ai-agent", "claude", "cursor"],
+  "keywords": [
+    "mcp",
+    "sendcraft",
+    "email",
+    "ai-agent",
+    "claude",
+    "cursor"
+  ],
   "license": "MIT",
-  "author": "SendCraft Team <sendcraft.team@gmail.com>",
+  "author": "SendCraft Team <team@sendcraft.online>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sendcraftlabs/sendcraft-mcp.git"
